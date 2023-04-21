@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\bin\Debug\net6.0\ex005_if_else.exe
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\bin\Debug\net6.0\ex005_if_else.deps.json
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\bin\Debug\net6.0\ex005_if_else.runtimeconfig.json
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\bin\Debug\net6.0\ex005_if_else.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\bin\Debug\net6.0\ex005_if_else.pdb
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\refint\ex005_if_else.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.pdb
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ex005_if_else.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex005_if_else\obj\Debug\net6.0\ref\ex005_if_else.dll
