@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\bin\Debug\net6.0\ex007_while.exe
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\bin\Debug\net6.0\ex007_while.deps.json
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\bin\Debug\net6.0\ex007_while.runtimeconfig.json
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\bin\Debug\net6.0\ex007_while.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\bin\Debug\net6.0\ex007_while.pdb
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\refint\ex007_while.dll
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.pdb
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ex007_while.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Обучение\Geek Brains\С#\Lection1\Examples\ex007_while\obj\Debug\net6.0\ref\ex007_while.dll
